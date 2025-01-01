@@ -11,6 +11,13 @@ Functions to read data and run the optimization are included in the `src` folder
 ## Project specifications
 The goal here is to analyze the revenue generation from a battery storage system that is performing energy arbitrage by participating in the NYISO day ahead energy market. What are the market dynamics? I'm not trying to build a system that will actually optimize battery storage behavior going into the future, just building a quick tool to see how things have worked in the past.
 
+### Install
+*   Install glpk-utils ( brew install glpk )
+*   virtualenv for python3.6/python3.10.16
+*   source .venv/bin/activate
+*   pip install -r requirements.txt
+*   run file
+
 ### System Requirements
 1. The system SHALL optimize the battery storage dispatch (with an optimization time horizon of at
 least 1 day) for the day ahead energy market
