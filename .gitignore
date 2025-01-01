@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.idea/
+full_year_optimization_results.csv
 
 # C extensions
 *.so

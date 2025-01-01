@@ -6,5 +6,5 @@ altair
 jupyter
 vega
 
-nb_conda_kernels
-glpk
+# nb_conda_kernels
+# glpk
