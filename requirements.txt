@@ -1,10 +1,10 @@
-pandas
-numpy
-pyomo
-runipy
-altair
-jupyter
-vega
+numpy==2.2.1
+pandas==2.2.3
+Pyomo==6.8.2
+runipy==0.1.5
+altair==5.5.0
+jupyter==1.1.1
+vega==4.1.0
 
 # nb_conda_kernels
 # glpk
