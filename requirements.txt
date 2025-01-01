@@ -1,8 +1,10 @@
-numpy
 pandas
-jupyterlab
-nb_conda_kernels
-altair
+numpy
 pyomo
-glpk
+runipy
+altair
+jupyter
 vega
+
+nb_conda_kernels
+glpk
